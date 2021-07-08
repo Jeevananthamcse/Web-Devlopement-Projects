@@ -1,6 +1,5 @@
 <html>  
-<head>
-<link rel="icon" href="m.jpg" type="image/gif">
+<head> 
 <style>
 .button {
   background-color: #ffaa00; /* Green */
@@ -45,7 +44,7 @@ body {
 		
 		<h1 style=>Muthayammal Polytechnic Institution</h1>
 		<hr>
-		<h2>MANAGEMENT INFORMATION SYSTEM</h2>
+		<h2> CSE DEPARTMENT EVENT</h2>
 		<hr>
 		</center>
 
